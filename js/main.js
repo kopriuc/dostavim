@@ -31,11 +31,12 @@ Array.from(scrollLink).map((link) => {
 });
 
 /* =========== Preloader =========== */
+
 document.addEventListener("DOMContentLoaded", () => {
   const preloader = document.querySelector(".preloader");
   setTimeout(() => {
     preloader.style.display = "none";
-  }, 2000);
+  }, 0);
 });
 
 

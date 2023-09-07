@@ -1,0 +1,7 @@
+table narocilo:
+id
+ime
+foreign key na userja
+količina
+naslov
+plačilo

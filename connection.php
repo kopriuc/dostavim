@@ -1,8 +1,8 @@
 <?php      
-    $host = "sql101.infinityfree.com";  
-    $user = "if0_34986605";  
-    $password = 'HlDkBO5MitHSCR';  
-    $db_name = "if0_34986605_dostavim";  
+    $host = "localhost";  
+    $user = "root";  
+    $password = '';  
+    $db_name = "dostavim";  
 
 
     $con = mysqli_connect($host, $user, $password, $db_name);  

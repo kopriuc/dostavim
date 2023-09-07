@@ -23,8 +23,8 @@
         <a href="#services">Storitve</a>
         <a href="#about">O nas</a>
         <a href="#contact">Kontaktiraj nas</a>
-        <a href="login.php">Prijavi se</a>
-        <a href="" class="btn">Opravi naročilo</a>
+        <a href="index.php">Prijavi se</a>
+        <a href="narocilo.php" class="btn">Opravi naročilo</a>
       </nav>
 
       <!-- Hamburger -->
